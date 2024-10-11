@@ -17,5 +17,3 @@ I'm currently a student working on small projects with my small team.<br>I'm cur
 
 ---
 [![](https://visitcount.itsvg.in/api?id=milkymoosha&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
