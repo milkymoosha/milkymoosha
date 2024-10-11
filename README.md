@@ -10,6 +10,3 @@ Building robust and secure IT infrastructures.
 Exploring the vast potential of open-source technologies.
 Exploring projects like WSL and WSA
 
-GitHub: @slxxme [https://github.com/slxxme] (of course!)
-
-** My pronouns are he/him. **
