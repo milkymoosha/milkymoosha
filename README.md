@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a student working on small projects with my small team.<br>I'm currently learning about frameworks.<br>feel free to contact me: milkymoosha@gmail.com.<br>
+A .NET developer.<br>feel free to contact me: milkymoosha@gmail.com.<br>
 
 
 ## 🌐 Socials:
